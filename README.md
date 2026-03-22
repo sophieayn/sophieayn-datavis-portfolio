@@ -22,7 +22,8 @@ or...
 
 # Examples
  
-## Assignment: [Visualizing Government Debt](visualizing-government-debt)
+## Assignment: <a href="visualizing-government-debt/">Visualizing Government Debt</a>
+
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
