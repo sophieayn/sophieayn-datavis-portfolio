@@ -22,7 +22,7 @@ or...
 
 # Examples
  
-## Assignment: <a href="visualizing-government-debt/">Visualizing Government Debt</a>
+## Assignment: (visualizing-government-debt)
 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
