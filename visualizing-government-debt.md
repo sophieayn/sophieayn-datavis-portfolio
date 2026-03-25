@@ -1,4 +1,4 @@
-##Visualizing Government Debt
+## Visualizing Government Debt
 
 The following charts visualize government debt from 2007 to 2024. Data was taken from [OECD](https://data.oecd.org/).
 
@@ -8,7 +8,7 @@ The first visualization uses circles to show the GDP level of a given country in
 
 <tableau-viz id='tableau-viz' src='https://us-east-1.online.tableau.com/t/sastewar-053b958552/views/VisualizingGovernmentDebt/GDPsIncreaseOverTime-2022WasASet-Back' width='1272' height='549' hide-tabs toolbar='bottom' ></tableau-viz>
 
-##Visualizing Government Debt Warm-Up
+## Visualizing Government Debt Warm-Up
 
 The following chart is a heat map demonstrating a country's GDP from 2007 to 2024. 
 
