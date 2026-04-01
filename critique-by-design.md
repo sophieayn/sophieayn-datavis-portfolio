@@ -57,36 +57,26 @@ This chart is relatively engaging; this may be due to the topic choice which is 
 
 I sketched a few solutions for this visualization. The main lesson from this exercise was the difficulty in being able to display this information effectively. The information is separated by country; each country needs to be visible and distinct. There are several variables with differing scales; these also need to be displayed in a means which readers can easily understand. 
 
+### Sketch 1: Looking at one variable at a time
+
 <img width="1466" height="333" alt="First Attempt" src="https://github.com/user-attachments/assets/ddd36380-b966-4117-b725-283f96dfce6f" />
 
+This was an attempt to see how one variable, measured with the y-axis, would look, with each country on the x-axis. The idea was that this would allow for easy comparison between countries. The end result was less than ideal. Adding more variables to this would lead to a messy, uninterpretable visualization. 
+
+### Sketch 2: Maybe the information just needs a table. 
+<img width="558" height="1855" alt="Country Happiness" src="https://github.com/user-attachments/assets/7d29400f-046e-48a0-b766-1529cf6c0b1f" />
+
+This was an attempt to make the information as simple and effective as possible. By converting the data into a table, I remove a lot of the cognitive load in trying to decipher the visualization. If this data visualization is purposed for policy makers to see their country's performance in comparison to others, the easiest way to achieve this is to provide the information. I tried to use a color gradient to make countries with the highest happiness scores the most vibrant shade of green, with less happy countries having less vibrant shades of green. 
 
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
-Questions to ask (modify these for your own interviews): 
-
-- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
+With testing my solution, I simply showed the second graphic to a team of people and allowed them to have an open discussion regarding it. After their thoughts, we worked together to discuss potential ways forward. I synthesize the comments, critiques, and advice below. 
 
 Results: 
+### Trend 1: What do the numbers mean? 
+Th
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
 
 Synthesis: 
 
