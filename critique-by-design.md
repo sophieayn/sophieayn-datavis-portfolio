@@ -57,6 +57,8 @@ This chart is relatively engaging; this may be due to the topic choice which is 
 
 I sketched a few solutions for this visualization. The main lesson from this exercise was the difficulty in being able to display this information effectively. The information is separated by country; each country needs to be visible and distinct. There are several variables with differing scales; these also need to be displayed in a means which readers can easily understand. 
 
+<img width="1466" height="333" alt="First Attempt" src="https://github.com/user-attachments/assets/ddd36380-b966-4117-b725-283f96dfce6f" />
+
 
 
 ## Step four: Test the solution
