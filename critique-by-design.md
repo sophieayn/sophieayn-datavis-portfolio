@@ -1,11 +1,7 @@
 | [home page](https://sophieayn-datavis-portfolio.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
+# World Happiness, Health, and Perceptions Visualization Critique, Re-make, and Critique
 The following documents my progress critiquing and re-working, to a marginal success, a data visualization published by the World Happiness Report. 
-
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
 
 ## Step one: the visualization
 
@@ -105,7 +101,7 @@ Second, I put the values for each variable into an online quintile calculator. I
 
 ### Creating an easy-to-read table
 
-I decided to maintain the table visualization to display the information. I adjusted my previous iteration's problem with intution through incorporating the aforementioned ranking system, as well as by grouping each country by its happiness rank. Each country within each rank of happiness (or, all rank 'A' countries, all rank 'B' countries, and so on) would then be displayed together. Each other variable remained unordered, so as not to distract readers with trying to make sense of an order. Additionally, I kept only variables which dealt with health and perceptions, excluding the log GDP and baseline disparity variables. The included variables had the least amount of confusion during my user interviews, meaning the visualization maintains the most intuitive items. The disparity variable specifically was to act as a baseline value for the original report's calculations; this variable would not make sense in a ranking setting. 
+I decided to maintain the table visualization to display the information. I adjusted my previous iteration's problem with intution through incorporating the aforementioned ranking system, as well as by grouping each country by its happiness rank. Each country within each rank of happiness (or, all rank 'A' countries, all rank 'B' countries, and so on) would then be displayed together. Each other variable remained unordered, so as not to distract readers with trying to make sense of an order. Additionally, I kept only variables which dealt with health and perceptions, excluding the log GDP and baseline disparity variables. The included variables had the least amount of confusion during my user interviews, meaning the visualization maintains the most intuitive items. The disparity variable specifically was to act as a baseline value for the original report's calculations; this variable would not make sense in a ranking setting. Additionally, as this visualization should serve as a tool for policy makers and interested parties to evaluate a country's performance in happiness, perceptions, and health, the title should allow readers to create their own judgements on the trends and takeaways they see. As a result, a fairly vague title was selected. 
 
 With these items in mind, I created the following visualization. 
 
