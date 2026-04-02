@@ -66,7 +66,7 @@ This was an attempt to see how one variable, measured with the y-axis, would loo
 ### Sketch 2: Maybe the information just needs a table. 
 <img width="558" height="1855" alt="Country Happiness" src="https://github.com/user-attachments/assets/7d29400f-046e-48a0-b766-1529cf6c0b1f" />
 
-This was an attempt to make the information as simple and effective as possible. By converting the data into a table, I remove a lot of the cognitive load in trying to decipher the visualization. If this data visualization is purposed for policy makers to see their country's performance in comparison to others, the easiest way to achieve this is to provide the information. I tried to use a color gradient to make countries with the highest happiness scores the most vibrant shade of green, with less happy countries having less vibrant shades of green. 
+This was an attempt to make the information as simple and effective as possible. By converting the data into a table, I remove a lot of the cognitive load in trying to decipher the visualization. If this data visualization is purposed for policy makers to see their country's performance in comparison to others, the easiest way to achieve this is to simply provide the information. I tried to use a color gradient to make countries with the highest happiness scores the most vibrant shade of green, with less happy countries having less vibrant shades of green. 
 
 
 ## Step four: Test the solution
@@ -74,15 +74,43 @@ This was an attempt to make the information as simple and effective as possible.
 With testing my solution, I simply showed the second graphic to a team of people and allowed them to have an open discussion regarding it. After their thoughts, we worked together to discuss potential ways forward. I synthesize the comments, critiques, and advice below. 
 
 Results: 
-### Trend 1: What do the numbers mean? 
-Th
+### Commment 1: What do the numbers mean? 
+The small group could not decipher what the values for each variable meant. While they could see from the key that the 'happiness score' went from 0 to 10, they questioned what the other values meant. 
 
+### Comment 2: Order
+One member brought up how they continued to look for ascending or descending order in each column. The table is ordered in descending order based on the happiness score. This looks fine for this variable, but left this group member tired upon looking for trends in the other variables. 
 
-Synthesis: 
+### Comment 3: Intuition
+This ties in with the previous comments. The group spoke on how they could not understand intuitively what the values each meant. Did a score of 0.142 for 'generosity' mean Finland has low generosity, or high generosity, or that 14.2% of citizens perceive the country to be generous? Why are some variables seemingly on a 0-1 scale, while happiness is on a 0-10 scale, and the values of social support seem to vary from 1.2-1.5? Ultimatley, displaying the raw values made this sketch less useful than the original, as there was no intuition behind their meaning. 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+### Synthesis - What to incorporate
+This discussion and feedback left me with a few takeaways. 
+
+Color did not come up in the discussion; it did not seem to play a large role in how people intook the information. Potentially, this information does not need color for effective display. 
+
+The numbers confuse readers; the information may be better suited in a score or ranking system. Many people know that a score of A is better than a score of C; this may make a table more intuitive than comparing 0.708 and 0.638 in terms of 'healthy life expectancy.'
+
+Order is also confusing in this format due to the number of variables. Potentially, a final result should incorporate a filter, several pages, or groupings, rather than an overarching descending order. 
+
 
 ## Step five: build the solution
+
+### Creating the ranking system
+
+I wanted to convert each variable into a ranking system from A through F. All missing information would be included as N/A. 
+
+First, I looked through the original report until I understood that for each variable, higher was better. This was counterintutitve for the variable 'Perceptions of Corruption.' 
+
+Second, I put the values for each variable into an online quintile calculator. I performed this for each variable to create each variable's criteria for being scored. I used the quintiles for each variable rather than a fixed value so as to have a score which compares to global values. I used the following [Quintile Calculator](https://statscalculator.com/quintile?base=0.546%0D%0A0.548%0D%0A0.182%0D%0A0.524%0D%0A0.193%0D%0A0.372%0D%0A0.484%0D%0A0.432%0D%0A0.498%0D%0A0.323%0D%0A0.480%0D%0A0.123%0D%0A0.172%0D%0A0.305%0D%0A0.368%0D%0A0.311%0D%0A0.418%0D%0A0.068%0D%0A0.116%0D%0A0.351%0D%0A0.131%0D%0A0.258%0D%0A0.169%0D%0A0.368%0D%0A0.127%0D%0A0.220%0D%0A0.281%0D%0A0.188%0D%0A0.073%0D%0A0.575%0D%0A0.202%0D%0A0.006%0D%0A0.253%0D%0A0.401%0D%0A0.175%0D%0A0.177%0D%0A0.101%0D%0A0.075%0D%0A0.043%0D%0A0.125%0D%0A0.074%0D%0A0.078%0D%0A0.251%0D%0A0.142%0D%0A0.058%0D%0A0.078%0D%0A0.215%0D%0A0.080%0D%0A0.120%0D%0A0.049%0D%0A0.219%0D%0A0.158%0D%0A0.136%0D%0A0.160%0D%0A0.035%0D%0A0.067%0D%0A0.065%0D%0A0.024%0D%0A0.119%0D%0A0.164%0D%0A0.081%0D%0A%0D%0A0.043%0D%0A0.093%0D%0A0.000%0D%0A0.204%0D%0A0.028%0D%0A0.029%0D%0A0.196%0D%0A0.118%0D%0A0.044%0D%0A0.121%0D%0A0.061%0D%0A0.078%0D%0A0.030%0D%0A0.132%0D%0A0.055%0D%0A0.059%0D%0A0.086%0D%0A0.055%0D%0A0.006%0D%0A0.173%0D%0A0.034%0D%0A0.015%0D%0A0.200%0D%0A0.402%0D%0A0.049%0D%0A%0D%0A0.138%0D%0A0.196%0D%0A0.174%0D%0A0.048%0D%0A0.115%0D%0A0.167%0D%0A0.100%0D%0A0.164%0D%0A0.107%0D%0A0.115%0D%0A0.069%0D%0A0.123%0D%0A0.199%0D%0A0.019%0D%0A%0D%0A0.060%0D%0A0.025%0D%0A0.061%0D%0A0.082%0D%0A0.074%0D%0A0.147%0D%0A0.179%0D%0A0.198%0D%0A0.048%0D%0A0.113%0D%0A0.069%0D%0A0.018%0D%0A0.252%0D%0A0.054%0D%0A0.174%0D%0A0.071%0D%0A0.028%0D%0A0.075%0D%0A0.090%0D%0A0.123%0D%0A0.156%0D%0A0.189%0D%0A0.122%0D%0A0.259%0D%0A0.031%0D%0A0.167%0D%0A0.101%0D%0A0.257%0D%0A0.160%0D%0A0.113%0D%0A0.109%0D%0A0.116%0D%0A0.136%0D%0A0.082%0D%0A0.131%0D%0A0.072%0D%0A0.053%0D%0A0.085%0D%0A0.029%0D%0A0.088)
+
+### Fighting with the System
+
+As a new Tableau user, there are many aspects to this system I am unfamiliar with. Durint this step, I created many versions of an essentially same data visualization in an attempt to adjust the display to my desire. Bottom line, the program won in this case. 
+
+The outcome I desired was for each rank's cell to be colored-in or outlined with its corresponding color. Each would mirror the Happiness Rank's legend and color scheme.
+<img width="70" height="76" alt="legend" src="https://github.com/user-attachments/assets/c0a64b44-1c0d-4205-85db-c0af29ccd025" />
+
+I followed several different tutorials in an attempt to figure out this issue. However, most tutorials appear to have solutions for this problem when dealing with dimensions, but not measures. As I had converted my numerical values into text strings, I no longer was working with the same type of data as the tutorials I found. As I did not end up using any of these tutorials, I am not including them to this page. 
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
