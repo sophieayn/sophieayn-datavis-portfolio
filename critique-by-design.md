@@ -20,18 +20,18 @@ Initially, I selected this design as I was interested in the subject material of
 
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+
 This critique is based on Stephen Few's Data Visualization Effectiveness Profile, which can be found [here](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf)
 
 The critique is split into the following sections: usefulness, completeness, perceptibility, truthfulness, intuitiveness, aesthetics, and engagement. 
 
 ### Usefulness - Score 5/10
-#### 
+
 This chart is relatively useful. The World Happiness Report was developed so that countries may learn more about world happiness and direct public policy to increase their own happiness. This visualization allows readers to compare countries' happiness level, see each country's individual happiness level, and develop some intuition on other factors regarding country's populations' perceptions. However, due to other factors which will be discussed shortly, the usefullness of this chart is stunted. 
 
 ### Completeness - Score 6/10
 
-This chart is not complete. 
+This chart is not complete. While there is good information included, the visualization does not stand on its own when confronted with questions. Some included variables are confusing, or seemingly contradictory to the title of the graphic. Further reading and context is required to understand the visualization. 
 
 ### Perceptibility - Score 7/10
 This chart is relatively clear and easy to look at for a quick overview. The chart is sorted by descending total happiness score, which makes the visual easier to look at, and allows readers to pick up important information, such as the most and least happy countries, easily. There are graph lines which separate each country's bar, name label, and sum happiness score. This makes it easy to look at each country individually. 
@@ -48,6 +48,13 @@ This visualization is very aesthetic due to the selected colors and order of col
 
 ### Engagement - Score 8/10
 This chart is relatively engaging; this may be due to the topic choice which is salient for every person. People care about their own happiness, and their home country, so they are interested to see how their country may compare to others. 
+
+### Critique Conclusion + Data Explanation
+
+With my first look at this chart, I assumed each variable added up to a country' happiness score. The subtitle for the chart is "Explained by six factors," which furthered this assumtion. This is not what the graphic shows. This is the main shortcoming of the visualizaion. With its current set-up and variable labels, the visualization is not entirely truthful, intutitive, or complete. 
+
+This chart shows the overall happiness score of each country. It also shows 6 different variables which the creators of the report believe explain happiness: Perceptions of corruption, generosity, freedom to make life choices, healthy life expectancy, social support, and log GDP per capita. Each of these variables were collected either through binary survey questions, or through accessible data (for GDP and life expectancy). The dystopia variable is part of the report's methodology and serves as a baseline, or ground 0, for each country. The visualization does not explain this data well. Even upon reading the report, I still have trouble fully understanding some of these variables - this is a problem. 
+
 
 ## Step three: Sketch a solution
 
@@ -140,9 +147,12 @@ Other iterations could include different pages for each happiness score to reduc
 Ultimately, my end result is a more effective visualization, but there are many means to improve it further. 
 
 
-## References
-_List any references you used here._
+## References, all previously linked
+[The World Happiness Report](https://www.worldhappiness.report/ed/2024/happiness-of-the-younger-the-older-and-those-in-between/#ranking-of-happiness-2021-2023)
+[Stephen Few's Data Visualization Effectiveness Profile](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf)
+[Quintile Calculator](https://statscalculator.com/quintile?base=0.546%0D%0A0.548%0D%0A0.182%0D%0A0.524%0D%0A0.193%0D%0A0.372%0D%0A0.484%0D%0A0.432%0D%0A0.498%0D%0A0.323%0D%0A0.480%0D%0A0.123%0D%0A0.172%0D%0A0.305%0D%0A0.368%0D%0A0.311%0D%0A0.418%0D%0A0.068%0D%0A0.116%0D%0A0.351%0D%0A0.131%0D%0A0.258%0D%0A0.169%0D%0A0.368%0D%0A0.127%0D%0A0.220%0D%0A0.281%0D%0A0.188%0D%0A0.073%0D%0A0.575%0D%0A0.202%0D%0A0.006%0D%0A0.253%0D%0A0.401%0D%0A0.175%0D%0A0.177%0D%0A0.101%0D%0A0.075%0D%0A0.043%0D%0A0.125%0D%0A0.074%0D%0A0.078%0D%0A0.251%0D%0A0.142%0D%0A0.058%0D%0A0.078%0D%0A0.215%0D%0A0.080%0D%0A0.120%0D%0A0.049%0D%0A0.219%0D%0A0.158%0D%0A0.136%0D%0A0.160%0D%0A0.035%0D%0A0.067%0D%0A0.065%0D%0A0.024%0D%0A0.119%0D%0A0.164%0D%0A0.081%0D%0A%0D%0A0.043%0D%0A0.093%0D%0A0.000%0D%0A0.204%0D%0A0.028%0D%0A0.029%0D%0A0.196%0D%0A0.118%0D%0A0.044%0D%0A0.121%0D%0A0.061%0D%0A0.078%0D%0A0.030%0D%0A0.132%0D%0A0.055%0D%0A0.059%0D%0A0.086%0D%0A0.055%0D%0A0.006%0D%0A0.173%0D%0A0.034%0D%0A0.015%0D%0A0.200%0D%0A0.402%0D%0A0.049%0D%0A%0D%0A0.138%0D%0A0.196%0D%0A0.174%0D%0A0.048%0D%0A0.115%0D%0A0.167%0D%0A0.100%0D%0A0.164%0D%0A0.107%0D%0A0.115%0D%0A0.069%0D%0A0.123%0D%0A0.199%0D%0A0.019%0D%0A%0D%0A0.060%0D%0A0.025%0D%0A0.061%0D%0A0.082%0D%0A0.074%0D%0A0.147%0D%0A0.179%0D%0A0.198%0D%0A0.048%0D%0A0.113%0D%0A0.069%0D%0A0.018%0D%0A0.252%0D%0A0.054%0D%0A0.174%0D%0A0.071%0D%0A0.028%0D%0A0.075%0D%0A0.090%0D%0A0.123%0D%0A0.156%0D%0A0.189%0D%0A0.122%0D%0A0.259%0D%0A0.031%0D%0A0.167%0D%0A0.101%0D%0A0.257%0D%0A0.160%0D%0A0.113%0D%0A0.109%0D%0A0.116%0D%0A0.136%0D%0A0.082%0D%0A0.131%0D%0A0.072%0D%0A0.053%0D%0A0.085%0D%0A0.029%0D%0A0.088)
+
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I asked Claude AI a few questions regarding how to use tableau to color my visualization in the way I wanted, after prevoius attempts at visualizations did not work. The answer the platform provided did not work, either, and was not used. 
 
