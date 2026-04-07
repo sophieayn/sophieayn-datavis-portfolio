@@ -5,6 +5,7 @@
 ## Summary
 
 Stay-at-home parents are uniquely vulnerable to financial abuse from their partners. Financial abuse is often intertwined with other forms of abuse. Victims of domestic partner violence and abuse, even when they know the nature of the relationship they are in, may remain with their abuser if they rely on them financially. People who become victims of abuse do not enter abusive relationships knowingly; they may believe that they are the exception to the rule. 
+
 In this project, I want readers to leave knowing they are not the exception, and that anyone can become a victim of financial abuse. More specifically, I want readers who are or plan to become stay-at-home parents to prioritize means to have some form of financial independence, such as having a personal, independent bank account or opening a Spousal Roth IRA. I want readers who are or plan to be the breadwinner with a stay-at-home partner to prioritize their partner’s financial security and independence. I want all readers to leave understanding the risk stay-at-home parents are in and to have knowledge they can pass on to friends and loved ones who are vulnerable. 
 
 ## Project Structure
