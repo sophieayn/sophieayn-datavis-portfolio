@@ -27,7 +27,7 @@ Financial dependence leaves stay-at-home parents vulnerable to financial abuse a
 
 *Sketch 1
 
-*Sketch 2
+* ![investment sketch](sketch-investment-gender-children.png)
 
 *Other forms of domestic abuse can be coupled with financial abuse. This can play a major role in victims of domestic abuse staying in their abusive relationships. If a victim cannot afford to live independently, if their credit score has been ruined, if they are in debt from their partner, if they cannot obtain an income sufficient to support their children, they may feel as though they have no other option than to stay in an abusive relationship. 
 
