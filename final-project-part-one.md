@@ -11,6 +11,8 @@ In this project, I want readers to leave knowing they are not the exception, and
 
 ### Story Board
 
+![storyboard](story-board.png)
+
 
 ### Structure using Set-Up, Conflict, Resolution:
 
@@ -25,15 +27,18 @@ Financial dependence leaves stay-at-home parents vulnerable to financial abuse a
 
 * “Only 44% of stay-at-home moms are saving for retirement, and 51% do not have any sort strategy for retirement – written or unwritten” (Retirement Planning for Stay-At-Home Moms 2018).
 
-* ![savings sketch](sketch-savings-comparison.png)
+* Sketch: Show savings difference between ideal and stay-at-home mothers. 
+   ![savings sketch](sketch-savings-comparison.png)
 
-* ![investment sketch](sketch-investment-gender-children.png)
+* Sketch: Compare men, women, parents, non-parents investment diversification and aggregation.
+    ![investment sketch](sketch-investment-gender-children.png)
 
 * Other forms of domestic abuse can be coupled with financial abuse. This can play a major role in victims of domestic abuse staying in their abusive relationships. If a victim cannot afford to live independently, if their credit score has been ruined, if they are in debt from their partner, if they cannot obtain an income sufficient to support their children, they may feel as though they have no other option than to stay in an abusive relationship. 
 
-* ![surveyresponse sketch](sketch-survey-response-financial-security.png)
+* Sketch: Compare survey responses; there are a few financial security based questions in the data below which could be used. 
+  ![surveyresponse sketch](sketch-survey-response-financial-security.png)
 
-  Potentially, this informatin could be displayed with a visualization as well.
+  Potentially, this information could be displayed with a visualization as well.
 
   ![surveyresponse graphic sketch](sketch-survey-response-graphic.png)
 
