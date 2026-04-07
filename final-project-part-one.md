@@ -1,7 +1,7 @@
 | [home page](https://sophieayn.github.io/sophieayn-datavis-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+# Final Project Part I
 
 # Outline
-
 ## Summary
 
 Stay-at-home parents are uniquely vulnerable to financial abuse from their partners. Financial abuse is often intertwined with other forms of abuse. Victims of domestic partner violence and abuse, even when they know the nature of the relationship they are in, may remain with their abuser if they rely on them financially. People who become victims of abuse do not enter abusive relationships knowingly; they may believe that they are the exception to the rule. 
