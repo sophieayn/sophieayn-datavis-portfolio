@@ -16,22 +16,22 @@ In this project, I want readers to leave knowing they are not the exception, and
 
 Setup: 
 Stay-at-home parents are often financially dependent on their partners. 
-*26% of mothers were stay-at-home moms, while 7% of fathers were stay-at-home dads (Fry, 2023).
+* 26% of mothers were stay-at-home moms, while 7% of fathers were stay-at-home dads (Fry, 2023).
 
 Conflict: 
 Financial dependence leaves stay-at-home parents vulnerable to financial abuse and financial insecurity.  
 
-*Financial abuse occurs when one partner intentionally holds power and control over “their partner’s finances or their ability to provide for themselves through a job or public assistance they receive” (National Domestic Violence Hotline).
+* Financial abuse occurs when one partner intentionally holds power and control over “their partner’s finances or their ability to provide for themselves through a job or public assistance they receive” (National Domestic Violence Hotline).
 
-*“Only 44% of stay-at-home moms are saving for retirement, and 51% do not have any sort strategy for retirement – written or unwritten” (Retirement Planning for Stay-At-Home Moms 2018).
+* “Only 44% of stay-at-home moms are saving for retirement, and 51% do not have any sort strategy for retirement – written or unwritten” (Retirement Planning for Stay-At-Home Moms 2018).
 
-*Sketch 1
+* Sketch 1
 
 * ![investment sketch](sketch-investment-gender-children.png)
 
-*Other forms of domestic abuse can be coupled with financial abuse. This can play a major role in victims of domestic abuse staying in their abusive relationships. If a victim cannot afford to live independently, if their credit score has been ruined, if they are in debt from their partner, if they cannot obtain an income sufficient to support their children, they may feel as though they have no other option than to stay in an abusive relationship. 
+* Other forms of domestic abuse can be coupled with financial abuse. This can play a major role in victims of domestic abuse staying in their abusive relationships. If a victim cannot afford to live independently, if their credit score has been ruined, if they are in debt from their partner, if they cannot obtain an income sufficient to support their children, they may feel as though they have no other option than to stay in an abusive relationship. 
 
-*Sketch 3, 4
+* Sketch 3, 4
 
 Resolution: There are actions we can all take to support ourselves and our loved ones. 
 
@@ -49,7 +49,7 @@ Each file contains answers to survey questions on individual’s retirement savi
 2. [BLS Data Viewer](https://data.bls.gov/dataViewer/view/timeseries/LNU01300002) - Labor Force Statistics from the Current Population Survey
 This resource is from the U.S. Department of Labor; more specifically, the U.S> Bureau of Labor Statistics (BLS). The BLS Data Viewer is a search engine which can provide access to many different datasets. There are many small datasets which measure one aspect of the population over time. For example: Labor force participations for women/men with/out own children under 6/ under 1/under 18. The same categories and employment-population rate, and unemployment rate are available as well. This could be useful in showing how labor force has shifted over the years, with some shifts being expected as the expectations of women as stay-at-home mothers changed.
 
-3.[Retirement Planning for Stay-At-Home Moms - Wiser Women ](https://wiserwomen.org/resources/retirement-planning-resources/retirement-planning-for-stay-at-home-moms/)
+3. [Retirement Planning for Stay-At-Home Moms - Wiser Women ](https://wiserwomen.org/resources/retirement-planning-resources/retirement-planning-for-stay-at-home-moms/)
 Women’s Institute for a Secure Retirement (WISER) is a nonprofit organization which focuses women’s risk for ill preparedness for retirement and means to better prepare them. This is a biased source, as they have a goal to improve women’ s retirement income, though still useful. Some of the information, however, is from 2015, which is not ideal. This report has some interesting, quick stats which may be useful:
 * “A large number of stay-at-home moms (75%) say they plan to rely on their spouse’s income in retirement” (WISER)
 * “Only 44% of stay-at-home moms are saving for retirement, and 51% do not have any sort strategy for retirement – written or unwritten.” (WISER)
