@@ -1,68 +1,60 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
-Text here!
+A current rough draft, wireframe-esque story board can be found at the following link on Shorthand:
+[Draft Financial Security](https://carnegiemellon.shorthandstories.com/52c3375e-a8c2-439b-99c1-01c363c9f97d/index.html)
+
 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+My target audience includes a few demographics. First, this is for current stay-at-home parents who may not have considered their vulnerability for ill-preparedness for retirement or financial abuse. Second, this is for young people who want to have a partner and family in the future, but have not yet. Within these two groups, this is for anyone with a relation to someone who is a stay-at-home parent (spouse, child, friend, parent) who may be able to use this information to help ensure that individual is financially secure. 
+
+As I do not have access to many stay-at-home parents, I interviewed several young college-aged students. As these students have different family goals, financial situations, and current relationship statuses, they represented a good spread of perspectives. 
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+|  Ensure my hook brings people into the story!   |     How does the introduction make you feel? What are your thoughts on it?              |
+|  Ensure my data visualizations are helpful and easy to understand.    |  What do the visualizations tell you, from a first glance or two?                 |
+|   Ensure my audience knows who the target audience is.   |      What do you think the goal of this presentation is? Who do you think this is for?             |
+| Ensure the flow of the presentation tells the full story cohesively | How does the current draft structure work for you? How is the flow? What could be improved? | How does the current draft structure work for you? How is the flow? What could be improved?   |
 
 
-Text here!
+I attempted to ask open-ended, non-leading questions to gain genuine responses on my presentation. 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 (Student, Mid-twenties, Female) | Interview 2 (Student, Mid-twenties, Male) | Interview 3 (Late Twenties, Female)|
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| How does the introduction make you feel? What are your thoughts on it? | Loved the introduction, particularly the usage of the word "lucky" multiple times as it emphasized that so many people in similar situations end up worse off. Quote: "The bar is so low."          |     Found the intro story to be a nice way of bringing people in, but found it a little long.        | Enjoyed the use of the story and found it engaging. Suggested to keep the story.            | 
+What do the visualizations tell you, from a first glance or two? |  Could accurately describe what I was trying to say with each visualization! She had the following comments. The moving-square visualization's animation was operating strangely; suggested adjusting the animation or only keeping the text or visualization for that section. Suggested red/orange instead of light green.  | Could accurately describe each visualization. Thought the draft needed more data visualizations rather than words or pictures.           |   Could accurately describe most visualizations; had some questions on the division of financial asset stacked bar sketch.         |   
+How does the current draft structure work for you? How is the flow? What could be improved? | Liked the flow, had some minor suggestions on adjusting some sections (included in previous answers). |  Repeated same concern with long beginning story. Suggested splitting last section on resources into multiple sections with icons rather than one continuous text.   |  Thought the flow worked, but was confused on how the story jumped around.                              |    
+What do you think the goal of this presentation is? Who do you think this is for? |  "As a 25 yr old, this tells me why it’s important to work, have my own savings account, but also if I’m ever caught in the situation what resources I have."    | Answered that it was for stay-at-home moms. | "It's for stay-at-home parents and young people in general"|
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| The flow works for some, and people like the emotional tie of the story. | I will edit the beginning story down; potentially recalling "Jane" could help remind readers of this personal tie. I may want to add final arguments for each section to build out the story I am trying to tell. |
+| The data visualizations need adjustments; more data visualizations are desired.  | I need to rework the animated square visualization; potentially I remove the text from the side which restates the stats. I also want the squares to all be aligned. For more data visualizations, I could create one which shows how much SAHM's are saving some, versus having no plan, rather than a call-out statistic. I also can keep looking through the 100 variables of my dataset to see what other information I can work with. I'm concerned about putting in data visualizations that I don't actually need for the sake of having more.                                                                                 |
+| People understand the story, goal, and audience well!                                         |  Few changes seem to bee needed for this. I need to build out the call-to-action section more so that the audience, who will know my goal and who they are, have as much information as possible.                                                                               |
 
-> ...include any final thoughts you have here. 
+# Final Thoughts
 
-Text here!
+It seems like I am in a good place for a rough draft, and am confident I can turn this around by presentation day to a well-produced story. I need to put more thought into my visualizations, adjust colors and format, and search for more useful data. I need to build out the resource section. Ultimately, however, those I interviewed had positive opinions on my draft and topic.  
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
 
 ## References
-_List any references you used here._
-
+[Real Median Personal Income in the United States (MEPAINUSA672N) | FRED | St. Louis Fed](https://fred.stlouisfed.org/series/mepainusa672n)
+[How much do I need to retire? | Fidelity](https://www.fidelity.com/viewpoints/retirement/how-much-do-i-need-to-retire)
+[Federal Reserve Board](https://www.federalreserve.gov/consumerscommunities/shed_data.htm)
+[WISER](https://wiserwomen.org/resources/retirement-planning-resources/retirement-planning-for-stay-at-home-moms/)
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+I used AI to try and help me create the animated square visualization in Tableau. I gave it the information and the outcome I wanted, and it helped me create a bar chart and treemap. Ultimately, neither fit my needs and so I hand-created the square animation.
