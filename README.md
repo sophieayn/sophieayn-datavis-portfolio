@@ -1,4 +1,4 @@
-| [home page](https://sophieayn.github.io/sophieayn-datavis-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://sophieayn.github.io/sophieayn-datavis-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three) |
 
 [click here for practice](tableau-upload-practice.md)
 
@@ -35,7 +35,7 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 ### Part I: Project Proposal
 [Part I](final-project-part-one)
 ### Part II: User Research + User Feedback
-[Part II](final-project-part-two)
+[Part II](final-project-part-two.md)
 ### Part III: Final deliverable
 Part III(final-project-part-three)
 
