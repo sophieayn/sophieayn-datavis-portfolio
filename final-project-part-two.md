@@ -3,7 +3,7 @@
 # Wireframes / storyboards
 
 A current rough draft, wireframe-esque story board can be found at the following link on Shorthand:
-[Draft Financial Security]([https://carnegiemellon.shorthandstories.com/52c3375e-a8c2-439b-99c1-01c363c9f97d/index.html](https://carnegiemellon.shorthandstories.com/52c3375e-a8c2-439b-99c1-01c363c9f97d/index.html))
+[Draft Financial Security](https://carnegiemellon.shorthandstories.com/52c3375e-a8c2-439b-99c1-01c363c9f97d/index.html)
 
 
 # User research 
