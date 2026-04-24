@@ -1,4 +1,4 @@
-| [home page](https://sophieayn.github.io/sophieayn-datavis-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three) |
+| [home page](https://sophieayn.github.io/sophieayn-datavis-portfolio/) | [data viz examples](dataviz-examples.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 [click here for practice](tableau-upload-practice.md)
 
