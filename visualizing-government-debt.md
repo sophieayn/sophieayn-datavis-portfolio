@@ -1,3 +1,5 @@
+| [home page](https://sophieayn.github.io/sophieayn-datavis-portfolio/) | [data viz examples](dataviz-examples.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
+
 ## Visualizing Government Debt
 
 The following charts visualize government debt from 2007 to 2024. Data was taken from [OECD](https://data.oecd.org/).
